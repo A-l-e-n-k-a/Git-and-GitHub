@@ -18,3 +18,11 @@ I would like to change the colour but don't know how.
 ```diff
 Test
 
+
+:wink:
+
+:grin:
+
+:blush:
+
+:zany_face:
