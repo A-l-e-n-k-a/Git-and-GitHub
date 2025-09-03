@@ -15,8 +15,6 @@ I have two small children.
 I would like to change the colour but don't know how.
 
 
-```diff
-Test
 
 
 :wink:
